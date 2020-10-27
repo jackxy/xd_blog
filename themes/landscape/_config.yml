@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
+  小滴课堂: https://xdclass.net
 rss: /atom.xml
 
 # Content
